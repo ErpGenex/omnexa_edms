@@ -1,0 +1,5 @@
+[pre_model_sync]
+
+[post_model_sync]
+omnexa_edms.patches.v1_0.hide_legacy_document_control_workspace
+omnexa_edms.patches.v1_0.sync_edms_workspace

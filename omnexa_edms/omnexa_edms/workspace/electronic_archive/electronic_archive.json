@@ -1,0 +1,22 @@
+{
+	"charts": [],
+	"content": "[{\"id\":\"edms-title\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Electronic Archive</b></span>\",\"col\":12}}]",
+	"doctype": "Workspace",
+	"for_user": "",
+	"hide_custom": 0,
+	"icon": "folder-open",
+	"is_hidden": 0,
+	"label": "Electronic Archive",
+	"links": [],
+	"module": "Omnexa EDMS",
+	"name": "Electronic Archive",
+	"public": 1,
+	"roles": [
+		{"role": "System Manager"},
+		{"role": "Company Admin"},
+		{"role": "Omnexa Document Controller"},
+		{"role": "Omnexa EDMS User"}
+	],
+	"shortcuts": [],
+	"title": "Electronic Archive"
+}
