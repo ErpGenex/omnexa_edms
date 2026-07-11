@@ -1,0 +1,21 @@
+{
+ "action": "Go to Page",
+ "action_label": "Open workspace",
+ "creation": "2026-06-24 10:13:50.498021",
+ "description": "Return here for shortcuts, charts, and lists for **Electronic Archive**.",
+ "docstatus": 0,
+ "doctype": "Onboarding Step",
+ "idx": 0,
+ "is_complete": 0,
+ "is_single": 0,
+ "is_skipped": 0,
+ "modified": "2026-07-11 14:37:25.150486",
+ "modified_by": "Administrator",
+ "name": "ERPGENEX-WS-electronic_archive-home",
+ "owner": "Administrator",
+ "path": "Workspaces/Electronic Archive",
+ "show_form_tour": 0,
+ "show_full_form": 0,
+ "title": "Explore this workspace",
+ "validate_action": 1
+}

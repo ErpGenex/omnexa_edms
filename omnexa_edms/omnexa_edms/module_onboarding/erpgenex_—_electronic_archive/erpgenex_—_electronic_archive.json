@@ -1,0 +1,29 @@
+{
+ "allow_roles": [
+  {
+   "role": "Desk User"
+  },
+  {
+   "role": "System Manager"
+  }
+ ],
+ "creation": "2026-06-24 10:13:50.504753",
+ "docstatus": 0,
+ "doctype": "Module Onboarding",
+ "documentation_url": "https://frappe.io/framework",
+ "idx": 0,
+ "is_complete": 0,
+ "modified": "2026-07-11 14:37:25.159639",
+ "modified_by": "Administrator",
+ "module": "Omnexa EDMS",
+ "name": "ERPGENEX \u2014 Electronic Archive",
+ "owner": "Administrator",
+ "steps": [
+  {
+   "step": "ERPGENEX-WS-electronic_archive-home"
+  }
+ ],
+ "subtitle": "Guided setup for this workspace.",
+ "success_message": "You are ready to work in Electronic Archive.",
+ "title": "Electronic Archive"
+}
