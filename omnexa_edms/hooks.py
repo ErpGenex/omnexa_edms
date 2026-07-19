@@ -13,7 +13,6 @@ add_to_apps_screen = [
 		"logo": "/assets/omnexa_edms/images/edms.svg",
 		"title": "Electronic Archive",
 		"route": "/app/electronic-archive",
-		"has_permission": "omnexa_core.omnexa_core.finance_demo.finance_app_permission.has_app_permission",
 	}
 ]
 
