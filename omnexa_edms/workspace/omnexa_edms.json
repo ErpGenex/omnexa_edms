@@ -1,0 +1,52 @@
+{
+    "name": "Omnexa Edms",
+    "module": "omnexa_edms",
+    "is_standard": 1,
+    "shortcuts": [],
+    "links": [
+        {
+            "label": "Omnexa Edms List",
+            "name": "omnexa_edms",
+            "type": "List",
+            "link_to": "omnexa_edms",
+            "onboard": 1
+        }
+    ],
+    "onboarding": [],
+    "charts": [
+        {
+            "label": "Activity Chart",
+            "chart_name": "omnexa_edms_activity",
+            "chart_type": "Line",
+            "is_standard": 1
+        }
+    ],
+    "number_cards": [
+        {
+            "label": "Total Records",
+            "number_card_name": "omnexa_edms_total",
+            "number_card_doc_type": "Number Card",
+            "is_standard": 1
+        }
+    ],
+    "reports": [
+        {
+            "label": "Omnexa Edms Report",
+            "name": "omnexa_edms_report",
+            "type": "Report",
+            "is_standard": 1
+        }
+    ],
+    "operations": [
+        {
+            "label": "Create Omnexa Edms",
+            "name": "create_omnexa_edms",
+            "type": "Action",
+            "is_standard": 1
+        }
+    ],
+    "card": {
+        "card_name": "omnexa_edms",
+        "card_style": "Default"
+    }
+}

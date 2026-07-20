@@ -37,4 +37,5 @@ def _ensure_roles():
 		if frappe.db.exists("Role", role_name):
 			frappe.db.set_value("Role", role_name, "desk_access", 1, update_modified=False)
 			continue
-		frappe.get_doc({"doctype": "Role", "role_name": role_name, "desk_access": 1}).insert(ignore_permissions=True)
+		frappe.get_doc({"doctype": "Role", "role_name": role_name, "desk_access": 1
+	}).insert(ignore_permissions=True)

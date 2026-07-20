@@ -12,7 +12,7 @@ add_to_apps_screen = [
 		"name": "omnexa_edms",
 		"logo": "/assets/omnexa_edms/images/edms.svg",
 		"title": "Electronic Archive",
-		"route": "/app/electronic-archive",
+		"route": "/app/electronic-archive"
 	}
 ]
 

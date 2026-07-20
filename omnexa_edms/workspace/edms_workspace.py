@@ -48,7 +48,8 @@ def _build_link_rows() -> list[dict]:
 
 
 def sync_edms_workspace_menu(*, save: bool = True, rebuild: bool = True) -> dict:
-	stats = {"sections": 0, "links": 0, "shortcuts": 0}
+	stats = {"sections": 0, "links": 0, "shortcuts": 0
+	}
 	if not frappe.db.exists("Workspace", WORKSPACE_NAME):
 		return stats
 	rows = _build_link_rows()
