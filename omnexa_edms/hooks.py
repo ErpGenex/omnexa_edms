@@ -18,3 +18,7 @@ add_to_apps_screen = [
 
 after_install = "omnexa_edms.install.after_install"
 after_migrate = "omnexa_edms.install.after_migrate"
+
+permission_query_conditions = {
+	"*": "omnexa_core.omnexa_core.permissions.global_branch_permission_query_conditions",
+}
