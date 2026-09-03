@@ -1,3 +1,4 @@
+# i18n:managed-catalog — bilingual/regional catalog; UI via ar.csv
 app_name = "omnexa_edms"
 app_title = "Omnexa EDMS"
 app_publisher = "Omnexa"
